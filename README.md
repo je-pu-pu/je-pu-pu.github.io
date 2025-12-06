@@ -22,15 +22,20 @@
 
 # 脳で奏でる音楽
 
-<video controls src="images/brain.mp4" title="脳で奏でる音楽"></video>
+<video controls src="images/brain.mp4" title="脳で奏でる音楽" width="100%"></video>
 
 # 顔で奏でる音楽
 
-<video controls src="images/face.mp4" title="顔で奏でる音楽"></video>
+<video controls src="images/face.mp4" title="顔で奏でる音楽" width="100%"></video>
 
 # 空で奏でる音楽
 
-<video controls src="images/hand.mp4" title="空で奏でる音楽"></video>
+<video controls src="images/hand.mp4" title="空で奏でる音楽" width="100%"></video>
+
+# ビッグファイブ性格診断
+
+[![ビッグファイブ性格診断](images/big-five.png)](https://bigfive-test.com/ja/result/68805916203c5a3504bc8ff5)
+
 
 # 資格
 
